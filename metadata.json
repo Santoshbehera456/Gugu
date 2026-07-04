@@ -1,0 +1,6 @@
+{
+  "name": "SkillArena",
+  "description": "A high-performance skill-based gaming platform featuring real-time gameplay, secure wallet simulation, leaderboards, KYC verification, responsible gaming limits, and an admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
